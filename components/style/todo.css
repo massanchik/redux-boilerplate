@@ -1,0 +1,8 @@
+.active {
+    color: #FF5722;
+    cursor: pointer;
+}
+.completed {
+    color: #464646;
+    text-decoration: line-through;
+}
